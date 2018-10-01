@@ -1,0 +1,17 @@
+*.class
+*.log
+log/*
+tmp/*
+# intellij
+*.eml
+*.iml
+*.ipr
+*.iws
+*.json
+.*.sw?
+.idea/
+target/
+*.csv
+*.parquet
+*.jar
+*.zip
